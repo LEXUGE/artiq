@@ -33,3 +33,6 @@ __pycache__/
 /dataset_db.mdb-lock
 /device_db*.py
 /test*
+
+# don't include nix build artifact
+result
