@@ -36,3 +36,6 @@ __pycache__/
 
 # don't include nix build artifact
 result
+
+# don't include generated pre-commit-hook config
+.pre-commit-config.yaml
